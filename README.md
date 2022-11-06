@@ -50,7 +50,11 @@ Now when everything is setup. Run the server:
 cd server
 nodemon app
 ```
+
 If everything is successfull you will the see the text "app is running" and "db is connected" on your terminal.
 Then open go to client and open index.html. 
+
+Here is the screenshot of the working system / frontend.
+![screenshot](https://raw.githubusercontent.com/surajverma8787/InterviewCreationPortal/master/Interview%20Creation%20Portal%20-%20Google%20Chrome%2006-11-2022%2023_44_31.png)
 
 
