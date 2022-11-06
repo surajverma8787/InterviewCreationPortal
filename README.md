@@ -27,11 +27,11 @@ USE InterviewDB;
   ```
 Add some random names with email addresses to the users tables. Run the following SQL query.
 ```
-INSERT INTO users (name, email_id) VALUES ('Arin', 'arin.nigam@gmail.com');
-INSERT INTO users (name, email_id) VALUES ('Deepshi', 'deepshisharma123@gmail.com');
-INSERT INTO users (name, email_id) VALUES ('Kirti', 'kirti.godani837@gmail.com');
-INSERT INTO users (name, email_id) VALUES ('Govind', 'govindmh14@gmail.com');
-INSERT INTO users (name, email_id) VALUES ('Kushagra', 'kushagra98@live.com');
+INSERT INTO users (name, email_id) VALUES ('suraj', 'surajverma@gmail.com');
+INSERT INTO users (name, email_id) VALUES ('ashish', 'ashish123@gmail.com');
+INSERT INTO users (name, email_id) VALUES ('pawan', 'pawan7@gmail.com');
+INSERT INTO users (name, email_id) VALUES ('harshit', 'harshit14@gmail.com');
+INSERT INTO users (name, email_id) VALUES ('deepu', 'deepu98@live.com');
 ```
 Create the table interviews with fields id, email1, email2, startTime, endTime. Run the following SQL query.
 ```
