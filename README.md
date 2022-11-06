@@ -45,9 +45,6 @@ CREATE TABLE interviews (
 ```
 You may or may not any data into the interviews table. The data will be added automatically when you scedule a new interview.
 
-Change the following in ```server/dbServicejs``` if your MySQL server is setup on different port or has different credentials.
-![MySQL credentials](https://i.paste.pics/9WL5X.png)
-
 Now when everything is setup. Run the server:
 ```
 cd server
@@ -56,5 +53,4 @@ nodemon app
 If everything is successfull you will the see the text "app is running" and "db is connected" on your terminal.
 Then open go to client and open index.html. 
 
-Here is the screenshot of the working system / frontend.
-![screenshot](https://i.paste.pics/9WLA9.png)
+
